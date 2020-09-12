@@ -1,0 +1,283 @@
+@media all and (max-width: 1199px){
+    .navbar-nav{
+        margin-right: 9rem !important;
+    }
+    .navbar-brand{
+        margin-left: 80px;
+    }
+    .nav-link{
+        margin-left: 20px;
+        margin-bottom: 20px;
+        padding: 30px 15px 10px 15px;
+        border-radius: 0 0 10px 10px;
+    }
+    
+    /* style for about section */
+
+    .about-us{
+        background: #FFFFFF;
+        padding-top: 100px;
+    }
+    .about-heading h2{
+        margin-bottom: 20px;
+    
+    }
+    .about-heading p{
+        width: 35%;
+        margin: auto;
+    }
+    .about-img{
+        margin-top: 50px;
+    }
+    .about-left{
+        padding: 30px;
+        margin-top: 60px;
+        margin-right: 30px;
+    }
+    .about-left p{
+        width: 90%;
+        margin-left: auto;
+    }
+
+    .service-our{
+        margin-top: 30px;
+    }
+    .service-img{
+        margin-bottom: 15px;
+        width: 305px;
+        height: 230px;
+    }
+
+    .work-heading{
+        position: inherit;
+    }
+    .work-img{
+        margin-left: o;
+        margin-top: 80px;
+        position: inherit;
+    }
+    .work-right{
+        padding: 30px;
+        border-radius: 15px 0 0 15px;
+        margin: 40px 0;
+    }
+    .work-right p{
+        width: 90%;
+        margin-right: auto;
+    }
+
+    .pricing-our{
+        padding: 50px 0;
+    }
+    .pricing-detail p{
+        margin: 10px auto;
+        padding-bottom: 10px;
+        width: 70%;
+        border-bottom: 1px solid #202328;
+    }
+
+    .touch-detail{
+        width: 305px;
+        height: 230px;
+        margin-bottom: 15px;
+    }
+}
+@media all and (max-width: 991px){
+    .navbar-brand{
+        margin-left: 20px;
+    }
+    .nav-link{
+        margin-left: 40px;
+        margin-bottom: 10px;
+        background: #ffd50000;
+        padding: 10px 0;
+        border-radius: inherit;
+    }
+
+    .about-heading p{
+        width: 50%;
+    }
+    .about-left{
+        padding: 30px;
+        border-radius: 0 15px 15px 0;
+        margin-top: 60px;
+        margin-right: 0;
+    }
+
+    .service-heading p{
+        width: 50%;
+    }
+    .service-img{
+        width: 110%;
+    }
+    .service-img img{
+        margin-top: 10px;
+    }
+    .service-img h2{
+        margin: 15px 0 15px 0;
+    }
+    .service-img p{
+        margin: auto;
+        width: 65%;
+    }
+
+    .dance-heading p{
+        width: 50%;
+    }
+
+    .work-heading p{
+        width: 50%;
+    }
+    .work-img{
+        margin-left: 0;
+    }
+    .work-btn .btn{
+        margin: 15px 10px
+    }
+
+    .pricing-heading p{
+        width: 50%;
+    }
+
+    .blog-heading p{
+        width: 50%;
+    }
+
+    .touch-heading p{
+        width: 50%;
+    }
+    .touch-detail{
+        width: 110%;
+        height: 230px;
+        margin-bottom: 15px;
+    }
+    .touch-detail i{
+        margin-top: 10px;
+        font-size: 50px;
+    }
+    .touch-detail h2{
+        margin: 15px 0 15px 0;
+    }
+    .touch-detail p{
+        margin: auto;
+        width: 65%;
+    }
+
+    .icon-content p{
+        width: 67%;
+    }
+}
+@media all and (max-width: 767px){
+    .navbar-brand{
+        margin-left: 20px;
+    }
+    .nav-link{
+        margin-left: 40px;
+        margin-bottom: 10px;
+        background: #ffd50000;
+        padding: 10px 0;
+        border-radius: inherit;
+    }
+
+    .about-heading p{
+        width: 55%;
+    }
+    .about-left{
+        padding: 30px;
+        border-radius: 0 15px 15px 0;
+        margin-top: 60px;
+        margin-right: 0;
+    }
+
+    .service-heading p{
+        width: 55%;
+    }
+    .service-img{
+        width: 100%;
+    }
+
+    .dance-heading p{
+        width: 55%;
+    }
+
+    .work-heading p{
+        width: 55%;
+    }
+    .work-img{
+        margin-left: 0;
+    }
+    .work-btn .btn{
+        margin: 15px 10px
+    }
+
+    .pricing-heading p{
+        width: 55%;
+    }
+
+    .blog-heading p{
+        width: 55%;
+    }
+
+    .touch-heading p{
+        width: 55%;
+    }
+    .touch-detail{
+        width: 510px;
+    }
+
+    .icon-content p{
+        width: 65%;
+    }
+}
+
+@media all and (max-width: 575px){
+    .about-heading p{
+        width: 60%;
+    }
+    .about-left{
+        padding: 30px;
+        border-radius: 0 15px 15px 0;
+        margin-top: 60px;
+        margin-right: 0;
+    }
+
+    .service-heading p{
+        width: 60%;
+    }
+    .service-img{
+        width: 100%;
+    }
+
+    .dance-heading p{
+        width: 60%;
+    }
+
+    .work-heading p{
+        width: 60%;
+    }
+    .work-img{
+        margin-left: 0;
+    }
+    .work-btn .btn{
+        margin: 15px 10px
+    }
+
+    .pricing-heading p{
+        width: 60%;
+    }
+
+    .blog-heading p{
+        width: 60%;
+    }
+
+    .touch-heading p{
+        width: 60%;
+    }
+    .touch-detail{
+        width: 100%;
+    }
+
+    .icon-content p{
+        width: 77%;
+    }
+}
